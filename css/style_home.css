@@ -270,7 +270,7 @@ h6 {
     font-size: 14px;
     text-transform: none;
     font-weight: 500;
-    justify-content: space-between;
+    justify-content: flex-start;
     gap: 1.5rem;
 }
 
